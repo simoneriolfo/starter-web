@@ -1,10 +1,10 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+Questo testo è nuovo
 
-##Introduzione
-Bubibabaoasoagfsijobaba
+## Introduzione
+Ora ho scritto qualcosa di sensato
 
-## Purpose
+## GIT e GITHub prova
 
-Sample website with plenty of files for demos
+Sto provando cose con il mio amico indiano
