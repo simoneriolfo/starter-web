@@ -3,7 +3,10 @@
 
 # TEAM
 
-    <name> Giorgio Pisu <twitter>
+    Simone Riolfo
+	simone@acrotec.it
+	Sviluppatore software
+	
 
 # THANKS
 
