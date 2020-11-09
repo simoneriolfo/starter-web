@@ -5,7 +5,7 @@
 
     Simone Riolfo
 	simone@acrotec.it
-	Sviluppatore software
+	Sviluppatore
 	
 
 # THANKS
@@ -16,3 +16,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+	Docker, Java, Ci Sciarp
