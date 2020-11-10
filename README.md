@@ -8,7 +8,8 @@ Tanta roba amici!
 ## GIT e GITHub prova
 
 Sto provando cose con il mio amico indiano
-E' molesto ma simpatico. Peccato per l'accento arabo
+E' molesto ma simpatico. Peccato per l'accento arabo.
+Altra modifica stupiderrima
 
 ## Confronti con GIT
 aggiungo una riga al leggimi così si vede nel confronto
