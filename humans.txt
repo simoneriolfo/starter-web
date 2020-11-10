@@ -24,3 +24,4 @@ Sul serio però, il sito fa cacare.
 	Machine learning, AWS, Google Cloud
 	Docker, Java, Ci Sciarp
     jQuery, Modernizr, AJAX
+	C, Ansi C, Anzi Java

@@ -1,2 +1,4 @@
 #Nuovo file per stesciare roba non in git
 File frillo come gli altri ma non tracciato
+
+Ora è tracciato trallallero trallalla
