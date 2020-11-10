@@ -8,6 +8,7 @@ Ora ho scritto qualcosa di sensato
 ## GIT e GITHub prova
 
 Sto provando cose con il mio amico indiano
+E' molesto ma simpatico 
 
 ## Confronti con GIT
 aggiungo una riga al leggimi così si vede nel confronto
