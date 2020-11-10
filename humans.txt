@@ -1,6 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+Non andate sul sito sopra che fa cacare
 # TEAM
 
     Simone Riolfo
