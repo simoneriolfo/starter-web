@@ -2,6 +2,8 @@
 # The humans responsible & technology colophon
 
 Non andate sul sito sopra che fa cacare
+
+Altre modifiche in locale.
 # TEAM
 
     Simone Riolfo
